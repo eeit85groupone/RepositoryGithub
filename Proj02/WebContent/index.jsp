@@ -9,6 +9,7 @@
 
 <body>
 	hello
+<<<<<<< HEAD
 <h1>123456</h1>
 <h1>Github</h1><h1>Github</h1><h1>Github</h1>
 
@@ -36,12 +37,27 @@
             
             
             
+=======
 
+<h1>123456</h1>
+<h1>Github</h1>
+<h1>HelloWorld</h1>
+<h1>HelloWorld</h1>
+<h1>HelloWorld</h1>
+
+<h1>子皓太慢囉</h1>
+>>>>>>> branch 'master' of https://github.com/eeit85groupone/RepositoryGithub.git
+
+<<<<<<< HEAD
 <body>
 <h1>Github</h1>
 <button>click me</button>
 
 <h1>子皓太慢囉</h1>
 <h2>讓我push!!!</h2>
+=======
+<h1>Github</h1>
+
+>>>>>>> branch 'master' of https://github.com/eeit85groupone/RepositoryGithub.git
 </body>
 </html>
