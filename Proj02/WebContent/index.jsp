@@ -9,7 +9,7 @@
 <button>click me</button>
 <h1>老師不要這麼兇嘛~</h1>
 <h1>樓上中懇</h1>
-<h1>子皓太慢囉</h1>
+<h1>子皓太慢囉gg</h1>
 <button>click </button>
 </body>
 </html>
